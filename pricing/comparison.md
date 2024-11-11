@@ -67,3 +67,9 @@ Load Balancer: 26€ (10 services)
 ## Open Telekom Cloud (OTC)
 
 no public pricing
+
+## Aruba cloud
+
+managed kubernetes: 36€ (HA master node), 84€
+
+Postgres: 23€
