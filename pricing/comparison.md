@@ -73,3 +73,23 @@ no public pricing
 managed kubernetes: 36€ (HA master node), 84€
 
 Postgres: 23€
+
+## Vultr
+
+Postgres: 90$
+
+Kubernetes: 60$
+
+Load Balancers: 10$
+
+## Linode / Akamai
+
+Postgres: 60$
+
+Kubernetes: 72$
+
+## Digital Ocean
+
+Postgres: 60$
+
+Kubernetes: 48$
